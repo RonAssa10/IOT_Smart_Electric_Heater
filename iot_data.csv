@@ -1,0 +1,26 @@
+clientID,timestamp,receiver,transmitter,topic,subscriber,message
+IOT_client-Id-5976397,20/12/2024 11:05,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 38 Humidity: 76.4
+IOT_client-Id-5976397,20/12/2024 11:05,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 35 Humidity: 76.4
+IOT_client-Id-5976397,20/12/2024 11:05,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 25 Humidity: 75.2
+IOT_client-Id-5976397,20/12/2024 11:05,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 27 Humidity: 75.7
+IOT_client-Id-5976397,20/12/2024 11:05,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 34 Humidity: 75.5
+IOT_client-Id-5976397,20/12/2024 11:05,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 40 Humidity: 75.4
+IOT_client-Id-5976397,20/12/2024 11:07,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 32 Humidity: 75.0
+IOT_client-Id-5976397,20/12/2024 11:07,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 28 Humidity: 74.8
+IOT_client-Id-5976397,20/12/2024 11:07,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 30 Humidity: 74.8
+IOT_client-Id-5976397,20/12/2024 11:07,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 29 Humidity: 76.3
+IOT_client-Id-5976397,20/12/2024 11:07,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 36 Humidity: 75.8
+IOT_client-Id-5976397,20/12/2024 11:07,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 24 Humidity: 76.0
+IOT_client-Id-5976397,20/12/2024 11:07,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 31 Humidity: 74.5
+IOT_client-Id-5976397,20/12/2024 11:08,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 37 Humidity: 76.3
+IOT_client-Id-5976397,20/12/2024 11:08,MonitorGUI,Server,pr/home/5976397/sts,HomeSystem,Temperature: 41 Humidity: 75.3
+IOT_client-Id-1234567,01/01/2025 20:22,Button,Heater,pr/home/1234567/sts,HomeSystem,ON
+IOT_client-Id-7654321,01/01/2025 20:22,Heater,Sensor,pr/home/7654321/temp,HomeSystem,Temperature: 23C
+IOT_client-Id-1234567,01/01/2025 20:22,Button,Heater,pr/home/1234567/sts,HomeSystem,ON
+IOT_client-Id-7654321,01/01/2025 20:22,Heater,Sensor,pr/home/7654321/temp,HomeSystem,Temperature: 23C
+IOT_client-Id-1234567,01/01/2025 20:22,Button,Heater,pr/home/1234567/sts,HomeSystem,ON
+IOT_client-Id-7654321,01/01/2025 20:22,Heater,Sensor,pr/home/7654321/temp,HomeSystem,Temperature: 23C
+IOT_client-Id-1234567,01/01/2025 20:22,Button,Heater,pr/home/1234567/sts,HomeSystem,ON
+IOT_client-Id-7654321,01/01/2025 20:22,Heater,Sensor,pr/home/7654321/temp,HomeSystem,Temperature: 23C
+IOT_client-Id-1234567,01/01/2025 20:22,Button,Heater,pr/home/1234567/sts,HomeSystem,ON
+IOT_client-Id-7654321,01/01/2025 20:22,Heater,Sensor,pr/home/7654321/temp,HomeSystem,Temperature: 23C
